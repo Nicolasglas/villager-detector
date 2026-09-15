@@ -1,0 +1,14 @@
+{
+  "region": {
+    "x": 0,
+    "y": 0,
+    "width": 400,
+    "height": 300
+  },
+  "reference_image": "reference_icon.png",
+  "confidence_threshold": 0.85,
+  "polling_interval_ms": 250,
+  "always_on_top": true,
+  "warning_mode": "builtin",
+  "warning_wav": ""
+}
